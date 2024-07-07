@@ -1,4 +1,4 @@
-# Simple Chess Game
+# ♟️ Simple Chess Game
 
 ## Overview
 
@@ -8,6 +8,6 @@ This project is a simple chess game implemented using the Qt library. It showcas
 
 This project was a collaboration between three people. The objective was to learn and implement object-oriented programming (OOP) principles in a real-world project. Through this collaboration, we aimed to enhance our understanding of OOP and gain hands-on experience with the Qt framework.
 
-## Screenshots
+## 📸 Screenshots
 
 Below are a few screenshots of the game:
