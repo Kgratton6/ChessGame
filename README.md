@@ -17,5 +17,5 @@ Below are a few screenshots of the game:
 
 ## 🛠️ Technologies Used
 
-- **Qt**: For the graphical user interface and application framework.
-- **C++**: For the core logic and implementation of the game.
+- **Qt**  : For the graphical user interface.
+- **C++** : For the core logic.
