@@ -11,3 +11,6 @@ This project was a collaboration between three people. The objective was to lear
 ## 📸 Screenshots
 
 Below are a few screenshots of the game:
+
+![Screenshot 1](img/screenshot1.png)
+![Screenshot 2](img/screenshot2.png)
