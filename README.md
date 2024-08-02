@@ -1,4 +1,4 @@
-# ♟️ Simple Chess Game
+# Simple Chess Game
 
 ## Overview
 
