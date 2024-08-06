@@ -13,6 +13,7 @@ This project is a simple chess game implemented using the Qt library. It showcas
 ## 📸 Project Screenshots
 
 Below are a few screenshots of the game:
+
 ![start of the game](img/screenshot1.png)
 ![normal game setup](img/screenshot2.png)
 
